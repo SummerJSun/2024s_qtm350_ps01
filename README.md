@@ -1,6 +1,6 @@
 # PROJECT TITLE 
 ![Vanessa Wei](https://img.shields.io/static/v1?label=VanessaWei&message=Collaborator&color=blue&logo=github)
-![Y/N](https://img.shields.io/static/v1?label=YourName&message=Collaborator&color=blue&logo=github)
+![Marco Ren](https://img.shields.io/static/v1?label=MarcoRen&message=Collaborator&color=blue&logo=github)
 ![Y/N](https://img.shields.io/static/v1?label=YourName&message=Collaborator&color=blue&logo=github)
 
 
@@ -31,7 +31,7 @@ Project description
 
 ---
 ## Contributions
-
+Marco Ren: Responsible for the writing of Section 1 *Introduction*.
 </br> 
 
 ## Challenges
