@@ -1,7 +1,7 @@
 # PROJECT TITLE 
 ![Vanessa Wei](https://img.shields.io/static/v1?label=VanessaWei&message=Collaborator&color=blue&logo=github)
 ![Jinghan Sun](https://img.shields.io/static/v1?label=JinghanSun&message=Collaborator&color=blue&logo=github)
-![Y/N](https://img.shields.io/static/v1?label=YourName&message=Collaborator&color=blue&logo=github)
+![Marco Ren](https://img.shields.io/static/v1?label=MarcoRen&message=Collaborator&color=blue&logo=github)
 
 
 ## I.  Objective
@@ -62,18 +62,3 @@ How to Solve:
 ## References
 Dataset url: [text](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-
-* Bullet Points  
-new line (Or just add two space character after a line) </br> 
-**Bolden**  
-*Italic*  
-`highlight`
-
-```
-code goes here
-print "Hello world"
-```
-
-separation line
-
----
