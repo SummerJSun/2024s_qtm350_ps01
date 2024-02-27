@@ -63,9 +63,9 @@ We will evaluate the performance of our models using metrics such as accuracy, p
 ---
 ## Contributions
 
-Vanessa Wei: Responsible for the writing of Section 3 *Method*.
-Marco Ren: Responsible for the writing of Section 1 *Introduction*.
-Jinghan Sun: Responsible for writing of Section 2 Dataset and Challenges
+Vanessa Wei: Responsible for the writing of Section 3 *Method*.  
+Marco Ren: Responsible for the writing of Section 1 *Introduction*.  
+Jinghan Sun: Responsible for writing of Section 2 Dataset and Challenges.  
 
 </br>
 
