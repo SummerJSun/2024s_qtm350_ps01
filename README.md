@@ -3,21 +3,14 @@
 ![Jinghan Sun](https://img.shields.io/static/v1?label=JinghanSun&message=Collaborator&color=blue&logo=github)
 ![Marco Ren](https://img.shields.io/static/v1?label=MarcoRen&message=Collaborator&color=blue&logo=github)
 
-
-
 ## I.  Introduction
 ***Description***   
 Over the years, the gaming industry has grown rapidly, offering a wide range of genres to an expanding audience. From the action-packed adventure games to the immersive role-playing games, each genre has its own unique appeal. However, with such an abundance of choices, it is critical to determine which genres resonate best with the consumers and drive higher sales. Given the importance of understanding consumer preferences and market trends for developers, publishers, and stakeholders, this project delves into a large amount of game sales data across a wide range of game genres. By analyzing the dataset in detail, we seek to identify trends, correlations, and underlying factors that influence the success of various game genres and to predict the best-selling game genres in the gaming market.
-
-</br>
 
 ***Objective***  
 The primary goals of the project are to uncover patterns and insights in game sales data and predict the best-selling game genres by analyzing the sales data across a wide range of game genres. To accomplish this goal, the data will first be preprocessed and then different machine learning advanced classification models will be used to predict the sales of game genres. Eventually, the effectiveness of these models in predicting game genres will be evaluated using metrics such as accuracy, precision, and recall. Visualization techniques will be employed in presenting the insights effectively, contributing to the overarching goal of identifying the key factors influencing the success of different game genres and predicting the best-selling game genres in the gaming market.
 
 </br>
-
-
-</br> 
 
 ## II. Dataset
 
@@ -43,7 +36,6 @@ In total, there are 16,598 records. 2 records were dropped due to incomplete inf
 ### Dataset Source URL
 [Dataset webite](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-
 </br> 
 
 ## III. Methods
@@ -51,8 +43,6 @@ In total, there are 16,598 records. 2 records were dropped due to incomplete inf
 In addition to our target variable, Genre, the dataset includes three additional nominal attributes. To prepare the data for analysis, we will apply one-hot encoding to these non-numeric columns, transforming them into binary representations. For the numerical attributes, we will normalize them using min-max normalization to ensure their values fall within the range of 0 and 1.
 
 To address dimensionality and enhance training efficiency, we will employ principal component analysis (PCA). PCA will allow us to reduce noise and retain only the most relevant features.
-
-</br>
 
 ***Classification***  
 Our classification task involves predicting the genre of games based on various attributes in the dataset, with Genre serving as our label. This attribute comprises five distinct categories. To accomplish this, we will explore a range of models and assess their performance. The models we plan to utilize include:
@@ -65,8 +55,6 @@ Our classification task involves predicting the genre of games based on various 
 
 To enhance the performance of each model, we will employ parameter tuning through grid search methodology, aiming for optimal results. For robust assessment, we will utilize 5-fold cross-validation, maintaining a train-test split ratio of 70:30.
 
-</br>
-
 ***Evaluation and Visualization***  
 We will evaluate the performance of our models using metrics such as accuracy, precision, and recall. Additionally, we will employ appropriate visualization techniques, such as scatterplots and line graphs, to illustrate the results effectively. Through this analysis, we aim to identify any correlations between `Genre` and other features, as well as assess the predictive capabilities of the selected models for this particular task.
 
@@ -76,11 +64,10 @@ We will evaluate the performance of our models using metrics such as accuracy, p
 ## Contributions
 
 Vanessa Wei: Responsible for the writing of Section 3 *Method*.
-</br> 
 Marco Ren: Responsible for the writing of Section 1 *Introduction*.
-</br> 
 Jinghan Sun: Responsible for writing of Section 2 Dataset and Challenges
-</br> 
+
+</br>
 
 ## Challenges
 -Using Github to collaborate and track the progress</br> 
