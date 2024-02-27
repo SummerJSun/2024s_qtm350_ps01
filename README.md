@@ -1,4 +1,4 @@
-# PROJECT TITLE 
+# VideoGame Genre Predict
 ![Vanessa Wei](https://img.shields.io/static/v1?label=VanessaWei&message=Collaborator&color=blue&logo=github)
 ![Jinghan Sun](https://img.shields.io/static/v1?label=JinghanSun&message=Collaborator&color=blue&logo=github)
 ![Marco Ren](https://img.shields.io/static/v1?label=MarcoRen&message=Collaborator&color=blue&logo=github)
