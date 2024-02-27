@@ -33,7 +33,7 @@ Key features of the dataset include:
 
 In total, there are 16,598 records. 2 records were dropped due to incomplete information. This dataset serves as a resource for analyzing trends in the video game industry in terms of genre, understanding consumer preferences in different regions, and evaluating the commercial success of games on various platforms. Our groups want to leverage this data for market analysis, predictive modeling, and historical inspection of the video game industry.
 
-***Dataset Source URL***
+***Dataset Source URL***  
 [Dataset webite](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 </br> 
@@ -74,7 +74,7 @@ Jinghan Sun: Responsible for writing of Section 2 Dataset and Challenges
 -Finding the appropriate dataset that clean and large enough for our project</br> 
 -Select the most accurate model for prediction and hyperparameters (if applicable)</br> 
 
-How to Solve:
+***How to Solve:***  
 -Learning through course material and google</br> 
 -Searching on platforms such as Kaggle and Google Dataset Search to find useable dataset</br> 
 -Using model seletion and assessment techniques to find the most suitable mode</br> 
