@@ -1,4 +1,4 @@
-# VideoGame Genre Predict
+# VIDEOGAME GENRE PREDICTION
 ![Vanessa Wei](https://img.shields.io/static/v1?label=VanessaWei&message=Collaborator&color=blue&logo=github)
 ![Jinghan Sun](https://img.shields.io/static/v1?label=JinghanSun&message=Collaborator&color=blue&logo=github)
 ![Marco Ren](https://img.shields.io/static/v1?label=MarcoRen&message=Collaborator&color=blue&logo=github)
@@ -14,7 +14,7 @@ The primary goals of the project are to uncover patterns and insights in game sa
 
 ## II. Dataset
 
-### Dataset Description
+***Dataset Description***
 The dataset hosted on Kaggle, titled "Video Game Sales," is a collection of sales data for video games across various platforms. Compiled by a Kaggle user named GregorUT, the dataset aims to provide a detailed overview of video game sales figures, offering insights into the commercial success of video games since they released until its last update.
 
 Key features of the dataset include:
@@ -33,7 +33,7 @@ Key features of the dataset include:
 
 In total, there are 16,598 records. 2 records were dropped due to incomplete information. This dataset serves as a resource for analyzing trends in the video game industry in terms of genre, understanding consumer preferences in different regions, and evaluating the commercial success of games on various platforms. Our groups want to leverage this data for market analysis, predictive modeling, and historical inspection of the video game industry.
 
-### Dataset Source URL
+***Dataset Source URL***
 [Dataset webite](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 </br> 
