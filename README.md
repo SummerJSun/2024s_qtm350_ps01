@@ -14,7 +14,7 @@ The primary goals of the project are to uncover patterns and insights in game sa
 
 ## II. Dataset
 
-***Dataset Description***
+***Dataset Description***  
 The dataset hosted on Kaggle, titled "Video Game Sales," is a collection of sales data for video games across various platforms. Compiled by a Kaggle user named GregorUT, the dataset aims to provide a detailed overview of video game sales figures, offering insights into the commercial success of video games since they released until its last update.
 
 Key features of the dataset include:
